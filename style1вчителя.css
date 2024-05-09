@@ -1,0 +1,104 @@
+body {
+    background-image: url(kartinki24_ru_summer_124.jpg);
+    background-attachment: fixed;
+    border: 5px solid rgb(0, 34, 255);
+    background-size: cover;
+    background-position: center;
+    transition: background-color 0.5s ease-in-out;
+}
+
+.uyuy {
+    color: rgb(0, 64, 255);
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.trt {
+    border-radius: 50%;
+    margin: 0 auto;
+    max-width: 100%;
+    display: block;
+    outline: rgba(255, 225, 0, 0.646) dotted thick ;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(255, 152, 246);
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+.hghg, .ghgh {
+    border: 5px solid rgb(0, 34, 255);
+    outline: rgba(255, 225, 0, 0.646) dotted thick ;
+    text-align: center;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
+
+.hghg, .ghgh {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.hghg a, .ghgh a {
+    flex: 0 0 30%;
+    margin: 10px;
+}
+
+.trt, .hghg video, .ghgh img {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    opacity: 0;
+    transition: opacity 0.8s ease-in-out;
+}
+
+.trt:hover, .hghg video:hover, .ghgh img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+a {
+    color: rgb(0, 34, 255);
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+    color: rgb(255, 152, 246);
+}
+
+.hghg p, .ghgh p {
+    color: rgb(0, 34, 255);
+    font-size: 14px;
+}
+
+.trt:hover, .hghg video:hover, .ghgh img:hover {
+    filter: brightness(80%);
+}
+
+footer a {
+    transition: transform 0.3s ease-in-out;
+}
+
+footer a:hover {
+    transform: rotate(360deg);
+}
+
+.ghgh img:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+    transition: box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+/* Добавленные стили для отображения картинок */
+.trt, .hghg video, .ghgh img {
+    opacity: 1;
+}
+
+.trt:hover, .hghg video:hover, .ghgh img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+}

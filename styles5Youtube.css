@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start ;
+}
+
+img{
+    width: 100px;
+}
+
+a{
+    display: inline;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.block{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+display: inline-block;
+}

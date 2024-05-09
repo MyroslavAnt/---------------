@@ -1,0 +1,20 @@
+ol{
+    list-style: lower-latin;
+}
+*{
+    margin: 0px 0px 20px 0px;
+    text-decoration: none;
+}
+p{
+    font-size: 24px;
+    background-color: rgb(0, 255, 4);
+    padding: 30px;
+}
+
+.cokf{
+    text-align: center;
+    background-color: rgb(0, 0, 255);
+}
+img{
+    margin: 0px 670px;
+}

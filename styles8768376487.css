@@ -1,0 +1,61 @@
+h1{
+    padding: 0px 700px;
+    color: rgb(0, 255, 17);
+
+}
+body{
+    background-color: blue;
+    
+}
+
+h2{
+    padding: 0px 900px;
+    color: rgb(0, 238, 255);
+}
+button{
+    padding: 0px 830px;
+    
+}
+a{
+    text-decoration: none;
+}
+
+h3{
+    padding: 0px 640px;
+    color: rgb(242, 255, 0);
+}
+.yu{
+    padding: 40px;
+    color: rgb(75, 58, 128);
+}
+
+.uy{
+    color: rgb(255, 0, 0);
+}
+
+.fg{
+    padding: 0px 700px;
+    color: rgb(0, 255, 17);
+}
+
+.hf{
+    padding: 0px 800px;
+}
+
+.hg{
+    padding: 0px 1000px;
+    color: rgb(0, 255, 17);
+}
+
+.kh{
+    padding: 0px 940px;
+    color: rgb(0, 255, 17);
+}
+
+.bc{
+    padding: 0px 640px;
+}
+
+.lk{
+    padding: 0px 790px;
+}

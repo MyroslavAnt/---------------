@@ -1,0 +1,19 @@
+h1{
+    color: red;
+ }
+h2{ color: aqua;
+}
+h3{
+    color: blue;
+}
+div{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-image: url(imya-11.png);
+    background-color: #ccc;
+}
+ img {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}

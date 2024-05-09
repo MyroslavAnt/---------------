@@ -1,0 +1,18 @@
+.MainBox{
+width: 100%;
+background:rgb(0, 121, 181)
+}
+.box{
+    width: 400px;
+    height: 200px;
+}
+
+.boxRed{
+    background: red;
+}
+.boxGreen{
+    background: greenyellow
+}
+.boxBlue{
+    background: blue;
+}

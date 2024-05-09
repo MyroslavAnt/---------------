@@ -1,0 +1,13 @@
+input[name="mess"]{
+height: 77px;
+}
+
+input[type="submit"]{
+    height: 50px;
+}
+p[data-text="blue"]{
+    color: blue;
+}
+p[data-text="green"]{
+    color: green;
+}

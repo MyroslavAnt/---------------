@@ -1,0 +1,12 @@
+div{
+    background-color: rgb(4, 0, 255);
+    height: 500px;
+    width: 500px;
+}
+
+div p{
+    color: rgb(38, 255, 0);
+}
+div p span{
+font-size: 5px;
+}
